@@ -1,4 +1,4 @@
-[![MasterHead](https://img.ibxk.com.br/2018/06/22/gif-22163357233543.gif)
+[![MasterHead]([https://img.ibxk.com.br/2018/06/22/gif-22163357233543.gif](https://cdn.weasyl.com/~fluffkevlar/submissions/30165/efb64790c6059bf9f32f9922bdfd36fad18bdd135aff5f67e99a7f0f29749042/fluffkevlar-starfield-gif.gif))
 <h1 align="center">Hi 👋, I'm Kennedy Uzoho</h1>
 <h3 align="center">A well-rounded software developer who focuses more on the back-end developments</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif")
