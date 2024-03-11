@@ -13,11 +13,11 @@
 
 - 🤝 I’m looking for help with **MEAN STACK, OpenGL Apps, Mobile Apps and Back-end logic development**
 
-- 💬 Ask me about **AWS, MEAN STACK (javascript), OpenGL (C++), Python (using NoteBook and Anaconda tools for data analytics), SpringBoot and Android (Java) and other programming tips**
+- 💬 Ask me about **AWS, MEAN STACK (javascript), OpenGL (C++), Python (using NoteBook and Anaconda tools for data analytics), SpringBoot and Android (Java), and other programming tips**
 
 - 📫 How to reach me **kennedyuzoho@outlook.com**
 
-- ⚡ Fun fact **I like to be confused, cause that's when I innovate ideas.**
+- ⚡ Fun fact **I like to be confused cause that's when I innovate ideas.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
