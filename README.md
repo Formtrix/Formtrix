@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **kennedyuzoho@outlook.com**
 
-- ⚡ Fun fact: **I like to be confused cause that's when I innovate ideas.**
+- ⚡ Fun fact: **I relish moments of confusion because they serve as fertile ground for birthing innovative ideas.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
