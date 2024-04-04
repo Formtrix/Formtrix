@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **AWS, MEAN STACK (javascript), OpenGL (C++), Python (using NoteBook and Anaconda tools for data analytics), SpringBoot and Android (Java), and other programming tips**
 
-- 📫 How to reach me **kennedyuzoho@outlook.com**
+- 📫 How to reach me **kenykit@outlook.com**
 
 - ⚡ Fun fact: **I relish moments of confusion because they serve as fertile ground for birthing innovative ideas.**
 
