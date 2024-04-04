@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kennedyuzoho&label=Profile%20views&color=0e75b6&style=flat" alt="kennedyuzoho" /> </p>
 
-- 🔭 I’m currently working on **MEAN STACK, Computational Graphics, Data Analytics and Mobile App development**
+- 🔭 I’m currently working on **MEAN/R STACK, Computational Graphics, Data Analytics and Mobile App development**
 
-- 🌱 I’m currently learning **MEAN STACK, OpenGL, AI & ML Algorithms and Mobile Apps**
+- 🌱 I’m currently learning **MEAN STACK, OpenGL, Data handling & product logics, and AI + ML**
 
 - 👯 I’m looking to collaborate on **MEAN STACK, Computational Graphics Apps, AI, and Mobile Apps**
 
