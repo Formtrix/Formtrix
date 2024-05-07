@@ -1,6 +1,6 @@
+![MasterHead](https://giphy.com/gifs/iridium-constellation-satellite-v7xhCSCeYAug6JZ8qa)
 
 
-<iframe src="https://giphy.com/embed/v7xhCSCeYAug6JZ8qa" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/iridium-constellation-satellite-v7xhCSCeYAug6JZ8qa">via GIPHY</a></p>
 <h1 align="center">Hi 👋, I'm Kennedy</h1>
 <h3 align="center">A computer science route software developer</h3>
 <img align="right" alt="Coding" width="300" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif")
