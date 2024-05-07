@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kennedyuzoho&label=Profile%20views&color=0e75b6&style=flat" alt="kennedyuzoho" /> </p>
 
-- 🔭 I’m currently working on **MEAN/R STACK, Computational Graphics, Data Analytics and Mobile App development**
+- 🔭 I’m currently working on **Full stack development, Computational Graphics, Data Analytics and Mobile App development**
 
-- 🌱 I’m currently learning **MEAN STACK, OpenGL, Data handling & product logics, and AI + ML**
+- 🌱 I’m currently learning **MEAN/R STACK, OpenGL, Data handling & product logic piplines, and AI + ML**
 
-- 👯 I’m looking to collaborate on **MEAN STACK, Computational Graphics Apps, AI, and Mobile Apps**
+- 👯 I’m looking to collaborate on **Full stack development, Computational Graphics Apps, AI, and Mobile Apps**
 
-- 🤝 I’m looking for help with **MEAN STACK, OpenGL Apps, Mobile Apps and Back-end logic development**
+- 🤝 I’m looking for help with **MEAN/R STACK, OpenGL/Vulcan Apps, Mobile Apps and Back-end logic development**
 
-- 💬 Ask me about **AWS, MEAN STACK (javascript), OpenGL (C++), Python (using NoteBook and Anaconda tools for data analytics), SpringBoot and Android (Java), and other programming tips**
+- 💬 Ask me about **AWS, MEAN/R STACK (javascript), OpenGL/Vulcan (C++) apps, Python (using NoteBook and Anaconda tools for data analytics), Kotlin and Java framworks, and other programming tips**
 
 - 📫 How to reach me **kenykit@outlook.com**
 
