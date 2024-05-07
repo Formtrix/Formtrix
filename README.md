@@ -1,5 +1,4 @@
-![MasterHead](https://giphy.com/gifs/iridium-constellation-satellite-v7xhCSCeYAug6JZ8qa)
-
+![MasterHead](https://cdn.weasyl.com/~fluffkevlar/submissions/30165/efb64790c6059bf9f32f9922bdfd36fad18bdd135aff5f67e99a7f0f29749042/fluffkevlar-starfield-gif.gif)
 
 <h1 align="center">Hi 👋, I'm Kennedy</h1>
 <h3 align="center">A computer science route software developer</h3>
