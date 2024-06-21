@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on **Full stack development, Computational Graphics, Data Analytics and Mobile App development**
 
-- 🌱 I’m currently learning **MEAN/R STACK, OpenGL, Data handling & product logic piplines, and AI + ML**
+- 🌱 I’m currently learning **MEAN, MVC, and MVVM STACKs, OpenGL, Data handling & Product Logic Piplines, AI + ML**
 
-- 👯 I’m looking to collaborate on **Full stack development, Computational Graphics Apps, AI, and Mobile Apps**
+- 👯 I’m looking to collaborate on **Full Stack Development, Computational Graphics Apps, Mobile Apps,  AI and ML**
 
-- 🤝 I’m looking for help with **MEAN/R STACK, OpenGL/Vulcan Apps, Mobile Apps and Back-end logic development**
+- 🤝 I’m looking for help with **MEAN, MVC, MVVM STACKS, OpenGL/Vulcan Apps, Mobile Apps and Back-End Product Logics Development**
 
-- 💬 Ask me about **AWS, MEAN/R STACK (javascript), OpenGL/Vulcan (C++) apps, Python (using NoteBook and Anaconda tools for data analytics), Kotlin and Java framworks, and other programming tips**
+- 💬 Ask me about **AWS, CI/CD Pipplines, Infrastructures,  MEAN, MVC, MVVM STACKs, OpenGL/Vulcan (C++) apps, Python Development + (using NoteBook and Anaconda tools for data analytics), Kotlin and Java framworks, and other programming tips**
 
 - 📫 How to reach me **kenykit@outlook.com**
 
