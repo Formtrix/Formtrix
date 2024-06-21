@@ -1,7 +1,7 @@
-<!-- ![MasterHead](https://cdn.weasyl.com/~fluffkevlar/submissions/30165/efb64790c6059bf9f32f9922bdfd36fad18bdd135aff5f67e99a7f0f29749042/fluffkevlar-starfield-gif.gif)  -->
+ ![MasterHead](https://cdn.weasyl.com/~fluffkevlar/submissions/30165/efb64790c6059bf9f32f9922bdfd36fad18bdd135aff5f67e99a7f0f29749042/fluffkevlar-starfield-gif.gif)  
 <!-- This is a comment. It won't be visible in the final output. -->
 
-<img src="https://cdn.weasyl.com/~fluffkevlar/submissions/30165/efb64790c6059bf9f32f9922bdfd36fad18bdd135aff5f67e99a7f0f29749042/fluffkevlar-starfield-gif.gif" width="1000" height="400">
+<!-- <img src="https://cdn.weasyl.com/~fluffkevlar/submissions/30165/efb64790c6059bf9f32f9922bdfd36fad18bdd135aff5f67e99a7f0f29749042/fluffkevlar-starfield-gif.gif" width="1000" height="400"> -->
 
 <h1 align="center">Hi 👋, I'm Kennedy</h1>
 <h3 align="center">A software developer with a BS in Computer Science</h3>
