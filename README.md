@@ -23,7 +23,9 @@
 
 - ⚡ Fun fact: **I relish moments of confusion because they serve as fertile ground for birthing innovative ideas.**
 
-- <span style="font-size:50 px;">- 🌱 I’m currently learning **MEAN, MVC, and MVVM STACKs, OpenGL, Data handling & Product Logic Piplines, AI + ML**</span>
+- <span style="font-size:50 px;"> 🌱 I’m currently learning **MEAN, MVC, and MVVM STACKs, OpenGL, Data handling & Product Logic Piplines, AI + ML**</span>
+
+<span style="font-size:50px;">- 🌱</span>
 
 
 <h3 align="left">Connect with me:</h3>
