@@ -9,19 +9,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kennedyuzoho&label=Profile%20views&color=0e75b6&style=flat" alt="kennedyuzoho" /> </p>
 
-- 🔭 I’m currently working on **Full stack development, Computational Graphics, Data Analytics and Mobile App development**
+ 🔭 I’m currently working on **Full stack development, Computational Graphics, Data Analytics and Mobile App development**
 
-- 🌱 I’m currently learning **MEAN, MVC, and MVVM STACKs, OpenGL, Data handling & Product Logic Piplines, AI + ML**
+ 🌱 I’m currently learning **MEAN, MVC, and MVVM STACKs, OpenGL, Data handling & Product Logic Piplines, AI + ML**
 
-- 👯 I’m looking to collaborate on **Full Stack Development, Computational Graphics Apps, Mobile Apps,  AI and ML**
+ 👯 I’m looking to collaborate on **Full Stack Development, Computational Graphics Apps, Mobile Apps,  AI and ML**
 
-- 🤝 I’m looking for help with **MEAN, MVC, MVVM STACKS, OpenGL/Vulcan Apps, Mobile Apps and Back-End Product Logics Development**
+ 🤝 I’m looking for help with **MEAN, MVC, MVVM STACKS, OpenGL/Vulcan Apps, Mobile Apps and Back-End Product Logics Development**
 
-- 💬 Ask me about **AWS, CI/CD Pipplines, Infrastructures,  MEAN, MVC, MVVM STACKs, OpenGL/Vulcan (C++) apps, Python Development + (using NoteBook and Anaconda tools for data analytics), Kotlin and Java framworks, and other programming tips**
+ 💬 Ask me about **AWS, CI/CD Pipplines, Infrastructures,  MEAN, MVC, MVVM STACKs, OpenGL/Vulcan (C++) apps, Python Development + (using NoteBook and Anaconda tools for data analytics), Kotlin and Java framworks, and other programming tips**
 
-- 📫 How to reach me **kenykit@outlook.com**
+ 📫 How to reach me **kenykit@outlook.com**
 
-- ⚡ Fun fact: **I relish moments of confusion because they serve as fertile ground for birthing innovative ideas.**
+ ⚡ Fun fact: **I relish moments of confusion because they serve as fertile ground for birthing innovative ideas.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
