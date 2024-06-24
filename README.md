@@ -5,7 +5,9 @@
 <img src="https://cdn.weasyl.com/~fluffkevlar/submissions/30165/efb64790c6059bf9f32f9922bdfd36fad18bdd135aff5f67e99a7f0f29749042/fluffkevlar-starfield-gif.gif" width="1000" height="200">
 
 <h1 align="center">Hi 👋, I'm Kennedy</h1>
-<h3 align="center">A software developer with a BS in Computer Science</h3>
+<h3 align="center">A software developer</h3>
+<h3 align="center">Recent Graduate</h3>
+<h3 align="center">BS in Computer Science</h3>
 <img align="right" alt="Coding" width="300" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kennedyuzoho&label=Profile%20views&color=0e75b6&style=flat" alt="kennedyuzoho" /> </p>
