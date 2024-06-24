@@ -16,7 +16,8 @@
 - [X] I’m looking to collaborate on **Full Stack Development, Computational Graphics Apps, Mobile Apps,  AI and ML**
 - [X] 🤝 I’m looking for help with **MEAN, MVC, MVVM STACKS, OpenGL/Vulcan Apps, Mobile Apps and Back-End Product Logics Development**
 - [X] 💬 Ask me about **AWS, CI/CD Pipplines, Infrastructures,  MEAN, MVC, MVVM STACKs, OpenGL/Vulcan (C++) apps, Python Development + (using NoteBook and Anaconda tools for data analytics), Kotlin and Java framworks, and other programming tips**  
-- [X] 📧 Reach out _**kenykit@outlook.com**_
+- [X] 📧 Reach out _**kenykit@outlook.com**_  
+
 - [X] 😜 Fun fact: **I relish moments of confusion because they serve as fertile ground for birthing innovative ideas.**
 
 <h3 align="left">Connect with me:</h3>
