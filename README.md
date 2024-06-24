@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **kenykit@outlook.com**
 
-- **⚡* Fun fact: **I relish moments of confusion because they serve as fertile ground for birthing innovative ideas.**
+- #⚡# Fun fact: **I relish moments of confusion because they serve as fertile ground for birthing innovative ideas.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
