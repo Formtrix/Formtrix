@@ -25,7 +25,7 @@
 
 - <span style="font-size:50 px;"> 🌱 I’m currently learning **MEAN, MVC, and MVVM STACKs, OpenGL, Data handling & Product Logic Piplines, AI + ML**</span>
 
-<span style="font-size:50px;">- 🌱</span>
+<span style="font-size:100px;">- 🌱</span>
 
 
 <h3 align="left">Connect with me:</h3>
