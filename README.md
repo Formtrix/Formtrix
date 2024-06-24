@@ -11,13 +11,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kennedyuzoho&label=Profile%20views&color=0e75b6&style=flat" alt="kennedyuzoho" /> </p>
 
-- [X] 🔭 I’m currently working on **Full stack development, Computational Graphics, Data Analytics and Mobile App development**
-- [X] 🌱 I’m currently learning **MEAN, MVC, and MVVM STACKs, OpenGL, Data handling & Product Logic Piplines, AI + ML**
-- [X] 👯 I’m looking to collaborate on **Full Stack Development, Computational Graphics Apps, Mobile Apps,  AI and ML**
+- [X] I’m currently working on **Full stack development, Computational Graphics, Data Analytics and Mobile App development**
+- [X] I’m currently learning **MEAN, MVC, and MVVM STACKs, OpenGL, Data handling & Product Logic Piplines, AI + ML**
+- [X] I’m looking to collaborate on **Full Stack Development, Computational Graphics Apps, Mobile Apps,  AI and ML**
 - [X] 🤝 I’m looking for help with **MEAN, MVC, MVVM STACKS, OpenGL/Vulcan Apps, Mobile Apps and Back-End Product Logics Development**
 - [X] 💬 Ask me about **AWS, CI/CD Pipplines, Infrastructures,  MEAN, MVC, MVVM STACKs, OpenGL/Vulcan (C++) apps, Python Development + (using NoteBook and Anaconda tools for data analytics), Kotlin and Java framworks, and other programming tips**
-- [X] 📫 Reach out _**kenykit@outlook.com**_
-- [X] ⚡ Fun fact: **I relish moments of confusion because they serve as fertile ground for birthing innovative ideas.**
+- [X] 📧 Reach out _**kenykit@outlook.com**_
+- [X] 😜 Fun fact: **I relish moments of confusion because they serve as fertile ground for birthing innovative ideas.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
