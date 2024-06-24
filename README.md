@@ -25,7 +25,7 @@
 
 <h1 align="left">🌱</h1> --  I’m currently learning **MEAN, MVC, and MVVM STACKs, OpenGL, Data handling & Product Logic Piplines, AI + ML**
 
-<img src="🌱" width="100" height="100">
+<img src="🌱" width="100" height="100"> _italic_ kennedy _italic_
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
