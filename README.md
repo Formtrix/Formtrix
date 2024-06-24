@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kennedyuzoho&label=Profile%20views&color=0e75b6&style=flat" alt="kennedyuzoho" /> </p>
 
- 🔭 I’m currently working on **Full stack development, Computational Graphics, Data Analytics and Mobile App development**
+ --🔭 I’m currently working on **Full stack development, Computational Graphics, Data Analytics and Mobile App development**
 
  🌱 I’m currently learning **MEAN, MVC, and MVVM STACKs, OpenGL, Data handling & Product Logic Piplines, AI + ML**
 
