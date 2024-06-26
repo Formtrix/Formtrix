@@ -12,9 +12,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kennedyuzoho&label=Profile%20views&color=0e75b6&style=flat" alt="kennedyuzoho" /> </p>
 
 - [X] I’m currently working on **Infrastructure development, Full stack development, Data Analytics and Mobile App development**
-- [X] I’m currently learning **MEAN, MVC, MVVM STACKs, OpenGL/Vulcan, Data handling/Product Logic Piplines, and AI/ML**
-- [X] I’m looking to collaborate on **Full stack apps, Computational graphics apps, Mobile Apps,  AI and ML**
-- [X] 🤝 I’m looking for help with **MVC stacks like MEAN stack, MVVM STACKS, OpenGL/Vulcan Apps, and Mobile apps back-end logics**
+- [X] Currently learning **Kubernetes, Terraform; MVC and MVVM Architectures; OpenGL/Vulcan, Data handling/Product Logic Piplines, and AI/ML Models**
+- [X] Looking to collaborate on **Full stack apps, Computational graphics apps, Mobile Apps,  AI and ML**
+- [X] 🤝 I’m looking for help with **MVVM Architectures, OpenGL/Vulcan Apps, and Mobile apps back-end logics**
 - [X] 💬 Ask me about **AWS, CI/CD Pipplines, Infrastructures, Terraform, Kubernetes,  MEAN, MVC, MVVM STACKs, OpenGL/Vulcan (C++) apps, Python Development + (using NoteBook and Anaconda tools for data analytics), Kotlin and Java framworks, and other programming tips**  
 - [X] 📧 Reach out _**kenykit@outlook.com**_  
 
