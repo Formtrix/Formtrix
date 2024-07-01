@@ -18,7 +18,7 @@
 - [X] 💬 Ask me about **AWS, CI/CD Pipplines, Infrastructures, Terraform, Kubernetes,  MEAN, MVC, MVVM, OpenGL/Vulcan (C++) apps, Python Development + (using NoteBook and Anaconda tools for data analytics), Kotlin and Java framworks, and other programming tips**  
 - [X] 📧 Reach out _**kenykit@outlook.com**_  
 
-- [X] 😜 ###_Hear me out_###: **I relish moments of confusion because they serve as fertile ground for birthing innovative ideas.**
+- [X] 😜 _Hear me out_: **Moments of confusion serve as fertile ground for birthing innovative ideas.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
