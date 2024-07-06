@@ -12,7 +12,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kennedyuzoho&label=Profile%20views&color=0e75b6&style=flat" alt="kennedyuzoho" /> </p>
 
 -  I’m currently working on **Infrastructure development, Full stack development, Data Analytics and Mobile App development.**
--  Currently learning **Kubernetes, Terraform; MVC and MVVM Architectures; OpenGL/Vulcan, Data handling/Product Logic Piplines, and AI/ML Models.**
+-  Interested in **Kubernetes, Terraform; MVC and MVVM Architectures; OpenGL/Vulcan, Data handling/Product Logic Piplines, and AI/ML Models.**
 -  Looking to collaborate on **Full stack apps, Computational graphics apps, Mobile Apps,  AI and ML.**
 -  🤝 I’m looking for help with **MVVM Architectures, OpenGL/Vulcan Apps, and Mobile apps back-end logics.**
 -  💬 Ask me about **AWS, CI/CD Pipplines, Infrastructures, Terraform, Kubernetes,  MEAN, MVC, MVVM, OpenGL/Vulcan (C++) apps, Python Development + (using NoteBook and Anaconda tools for data analytics), Kotlin and Java framworks, and other programming tips.**  
