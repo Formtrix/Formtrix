@@ -12,7 +12,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kennedyuzoho&label=Profile%20views&color=0e75b6&style=flat" alt="kennedyuzoho" /> </p>
 
 -  **Infrastructure development; Terraform and Kubernetes.**
--  **Full stack development, Data Analytics, Mobile App development, MVC, MVVM Architectures; OpenGL/Vulcan, Product Logic Piplines, and AI/ML Models.**
+-  **Full stack development. Data Analytics. Mobile App development. MVC. MVVM Architecture. OpenGL/Vulcan. Product Logic Piplines. AI/ML Models.**
 -  🤝 I’m looking for help with **MVC Architectures, OpenGL/Vulcan Applications, and Mobile Application back-end logics.**
 -  💬 Ask me about **AWS, CI/CD Pipplines, Infrastructures, Terraform, Kubernetes,  MEAN, MVC, MVVM, OpenGL/Vulcan (C++) apps, Python Development + (using NoteBook and Anaconda tools for data analytics), Kotlin and Java framworks, and other programming tips.**  
 -  📧 Reach out _**kenykit@outlook.com**_  
