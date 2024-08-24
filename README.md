@@ -13,11 +13,11 @@
 
 -  **Infrastructure development: Terraform and Kubernetes.**
 -  **Full stack development. Data Analytics. Mobile App development. MVC and MVVM designs. OpenGL/Vulcan. Product Logic Piplines. AI/ML Models.**
--  🤝 I’m looking for help with **MVC/MVVM Architectures, API design/integration/documentation, OpenGL/Vulcan?/Applications, and Mobile Application Native Design and Integration.**
+-  I’m looking for help with **MVC/MVVM Architectures, API design/integration/documentation, OpenGL/Vulcan?/Applications, and Mobile Application Native Design and Integration.**
 -  💬 Ask me about **AWS, CI/CD Pipplines, Infrastructures, Terraform, Kubernetes,  MEAN, MVC, MVVM, OpenGL/Vulcan? apps, Python backends, Kotlin and Java framworks, and other programming tips.**  
 -  📧 Reach out _**kenykit@outlook.com**_  
 
--  😜 _We can all agree that._: **Confused state often serve as fertile ground for birthing innovative ideas.**
+-  😜 _We can all agree that._: **confused state often serve as fertile ground for birthing innovative ideas.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
