@@ -5,7 +5,7 @@
 <img src="https://cdn.weasyl.com/~fluffkevlar/submissions/30165/efb64790c6059bf9f32f9922bdfd36fad18bdd135aff5f67e99a7f0f29749042/fluffkevlar-starfield-gif.gif" width="1000" height="200">
 
 <h1 align="center"> Hi 👋, Welcome </h1>
-<h2 align="center"> Lets build amazing things together! </h2>
+<h2 align="center"> Let's build amazing things together! </h2>
 <h1 align="center"> 🖥️ <~🐛~~🧑🏽‍💻 </h1>
 <img align="right" alt="Coding" width="300" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif")
 
